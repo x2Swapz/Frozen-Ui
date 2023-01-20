@@ -1,4 +1,4 @@
-local library - {}
+local library = {}
 function library:CreateWindow(name)
 
 local Design = Instance.new("ScreenGui")
